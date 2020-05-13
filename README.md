@@ -1,4 +1,4 @@
-# 一个在vscode上开发的测试例程，用于windows平台
+# 一个在vscode上开发的测试例程，windows和linux均可使用
 ##   文件夹说明
 
 ###   .git
